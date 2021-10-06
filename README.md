@@ -13,7 +13,7 @@
 ### - em categories, selecione uma categoria; 
 ### - em dificulties, selecione uma dificuldade easy, medium ou hard; 
 ### - em types, selecione um tipo All Types, Multiple Answer ou True/False; 
-### - em Number of Questions, selecione quantas questẽs vc deseja responder: All Numer of QUestions(mais questões ### serão respondidas aqui) 3, 5, 7, 10 ou 15 questões; 
+### - em Number of Questions, selecione quantas questẽs vc deseja responder: All Numer of QUestions(mais questões serão respondidas aqui) 3, 5, 7, 10 ou 15 questões; 
 ### - Após selecionar suas configurações clique em Go Back para voltar a tela de login; 
 ### - Após selecionar suas configurações clique em Go Back para voltar a tela de login; 
 ### - Agora é só digitar seu nome e email e clicar em jogar para dar início a sua partida; 
