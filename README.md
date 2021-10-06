@@ -1,6 +1,6 @@
 ### Seja bem-vindo ao projeto desafio-trivia.
 
-### 1 - Utilização do framework react-redux;
+### 1 - Utilização do framework React e a biblioteca Redux;
 ### 2 - Estilização com CSS3;
 ### 2 - Utilização da API: https://opentdb.com/api.php?amount=QUANTIDADE;
 ### 3 - Utilização do LocalStorage para armazenar o state;
